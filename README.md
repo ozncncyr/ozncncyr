@@ -1,15 +1,23 @@
-<div style="display:flex; padding:30px; gap:20px">
-<div style="font-size:16px;">
-<h2>💫 About Me:</h2> 
-🔭 I’m currently working on Web Designs <br>👯 I’m looking to collaborate on another learners :)<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML(done) - CSS(done) JavaScript(Currently) - React - NodeJS<br>💬 Ask me about everything you want to ask :)</div>
-<div >
+<table>
+<tr>
+<td>
+<div style="font-size:27px;">
+<h2>💫 About Me:</h2>
+🔭 I’m currently working on Web Designs <br>
+👯 I’m looking to collaborate on another learners :)<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning HTML(done) - CSS(done) JavaScript(Currently) - React - NodeJS<br>
+💬 Ask me about everything you want to ask :)
+</div>
+</td>
+<td>
 <h2>🔝 Top Contributed Repo</h3>
 
 ![](https://github-contributor-stats.vercel.app/api?username=ozncncyr&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 
