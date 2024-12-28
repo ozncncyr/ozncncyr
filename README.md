@@ -1,7 +1,7 @@
-<table style="border:none;">
+<table>
 <tr>
 <td>
-<div style="font-size:27px;">
+<div style="border:none;" style="font-size:27px;">
 <h2>💫 About Me:</h2>
 🔭 I’m currently working on Web Designs <br>
 👯 I’m looking to collaborate on another learners :)<br>
