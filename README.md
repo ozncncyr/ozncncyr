@@ -40,7 +40,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ozncncyr&theme=gruvbox&no-frame=true&no-bg=true&margin-w=30)
+![](https://github-profile-trophy.vercel.app/?username=ozncncyr&theme=gruvbox&no-frame=true&no-bg=true&margin-w=40)
 
 ### ✍️ Random Dev Quote
 
