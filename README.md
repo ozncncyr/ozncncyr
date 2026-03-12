@@ -5,8 +5,8 @@
 <h2>💫 About Me:</h2>
 🔭 I’m currently working on Fullstack Web Development <br>
 👯 I’m looking to collaborate on project teams and companies. :)<br>
-🤝 I'm working with HTML, CSS, JavaScript, React (Hooks, Tools and Redux), NodeJS.
-🌱 I'm currently learning TypeScript and Tailwind CSS
+🤝 I'm working with HTML, CSS, JavaScript, React (Hooks, Tools and Redux), NodeJS.<br>
+🌱 I'm currently learning TypeScript and Tailwind CSS<br>
   
 💬 Ask me about everything you want to ask :)
 </div>
