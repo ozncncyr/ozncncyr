@@ -3,10 +3,11 @@
 <td>
 <div style="border:none;" style="font-size:27px;">
 <h2>💫 About Me:</h2>
-🔭 I’m currently working on Web Designs <br>
-👯 I’m looking to collaborate on another learners :)<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning HTML(done) - CSS(done) JavaScript(Currently) - React - NodeJS<br>
+🔭 I’m currently working on Fullstack Web Development <br>
+👯 I’m looking to collaborate on project teams and companies. :)<br>
+🤝 I'm working with HTML, CSS, JavaScript, React (Hooks, Tools and Redux), NodeJS.
+🌱 I'm currently learning TypeScript and Tailwind CSS
+  
 💬 Ask me about everything you want to ask :)
 </div>
 </td>
